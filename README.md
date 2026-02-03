@@ -5,7 +5,7 @@
 GitHub is a cloud based content hosting service that allows people to store, manage, share and collaborate on software that they create. It has been owned by Microsoft since 2018 and is one of the largest hosts of source code on the planet.
 
 ## Getting a GitHub Account
-Before you can start creating and using GitHub Repositorie, you first need to create a GitHub account.
+Before you can start creating and using GitHub Repository, you first need to create a GitHub account.
 
 To do this, go to www.github.com in any web browser.
 
@@ -539,8 +539,8 @@ Using this link, you should be able to access your website from anywhere, includ
     <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a2 2 0 0 0-.453-.618A5.98 5.98 0 0 1 2 6m6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1"/>
 </svg> <strong>Task</strong>
 <p>Part 1: Take all of the text from your working document, and place it into your website, you should also place the images from the "Pictures" folder in the correct place.</p>  
-<p><strong>Hint!</strong> you should be able to do this using both the < p > and < img > tags - you may need to look up how to do these.
-<p>Part 2: Added a short final section to your website called "Reflection" is this section you should discuss what you did today, and how you feel like this could be used in industry. 
+<p><strong>Hint!</strong> you should be able to do this using both the < p > and < img > tags - you may need to look up how to do these.</p>
+<p>Part 2: Added a short final section to your website called "Reflection" is this section you should discuss what you did today, and how you feel like this could be used in industry. </p>
 </div>
 </div>
 
